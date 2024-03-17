@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_shared_rich_text_mark_down_s",
+  "info": {
+    "displayName": "Rich Text (MarkDown)"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
